@@ -1,4 +1,4 @@
-# Codeship pull requests example [![Codeship Status for surge-sh/example-codeship](https://codeship.com/projects/86b9dbb0-eb83-0132-4c31-26192dc48311/status?branch=master)](https://codeship.com/projects/83463)
+# Codeship pull requests example [![Codeship Status for surge-sh/example-codeship](https://codeship.com/projects/ee9ddbc0-fb5a-0132-51ff-0ea73193a6c8/status?branch=master)](https://codeship.com/projects/83463)
 
 An example using [Codeship](https://codeship.com), for continuously previewing pull requests by publishing them on [Surge.sh](https://surge.sh).
 
